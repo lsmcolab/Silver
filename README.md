@@ -1,7 +1,7 @@
 # Silver
 Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
-
+![alt text](http://url/to/img.png)
 
 # The System 
 
