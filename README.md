@@ -1,5 +1,4 @@
-# Silver
-Novel Rendering Engine for Data Hungry Computer Vision Tasks
+# Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars.PNG">
