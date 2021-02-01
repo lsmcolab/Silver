@@ -1,2 +1,3 @@
 # Silver
-This readme file will show you how to install the system on your device.
+Novel Rendering Engine for Data HungryComputer Vision Tasks
+
