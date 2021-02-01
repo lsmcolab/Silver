@@ -1,7 +1,7 @@
 # Silver
 Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars.PNG)
 
 # The System 
 
