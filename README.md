@@ -1,3 +1,9 @@
 # Silver
-Novel Rendering Engine for Data HungryComputer Vision Tasks
+Novel Rendering Engine for Data Hungry Computer Vision Tasks
+
+# The System 
+
+
+# The Dataset
+
 
