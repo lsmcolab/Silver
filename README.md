@@ -20,6 +20,12 @@ To run the system smoothly on your device, the following are suggested:
 </p>
 
 ### Photo-realism
+
+### Diversity
+<p float="left">
+<img width="660" height="500" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars2.PNG">
+<img width="660" height="500" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars2.PNG"> 
+</p>
 ## Code and Dataset
 The complete project can be accessed using this link: [https://XXXXXX].
 The sample dataset can be accessed using this link: [https://XXXXXX].
