@@ -1,6 +1,6 @@
 # Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
- [![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://www.youtube.com/watch?v=TrKwNBaDTNQ)
+ ![](name-of-giphy.gif)
 
 
 ## Abstract
