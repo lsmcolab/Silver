@@ -12,8 +12,17 @@ To run the system smoothly on your device, the following are suggested:
 * Unity HDRP (Unity version 2020.1.17f1).
 * GeForce GTX 1080 Ti
 * Vulkan API
-## The Dataset
-The sample dataset can be accessed using this link: [https://XXXXXX] 
+
+## System Features
+### Ground-truths
+<p align="center">
+  <img width="460" height="300" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars2.PNG">
+</p>
+
+### Photo-realism
+## Code and Dataset
+The complete project can be accessed using this link: [https://XXXXXX].
+The sample dataset can be accessed using this link: [https://XXXXXX].
 
 
 ## Contact Authors
