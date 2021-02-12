@@ -16,7 +16,7 @@ To run the system smoothly on your device, the following are suggested:
 ## System Features
 ### Ground-truths
 <p align="center">
-  <img width="460" height="300" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars2.PNG">
+  <img width="560" height="400" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars2.PNG">
 </p>
 
 ### Photo-realism
