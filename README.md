@@ -20,6 +20,9 @@ To run the system smoothly on your device, the following are suggested:
 </p>
 
 ### Photo-realism
+<p align="center">
+  <img width="660" height="500" src="https://github.com/A-Kerim/Silver/blob/main/PhotoRealism.PNG.PNG">
+</p>
 
 ### Diversity
 <p float="center">
