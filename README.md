@@ -16,7 +16,6 @@ To run the system smoothly on your device, the following are suggested:
 
 
 
-## Contact
-### Authors
+## Contact Authors
 * Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
 * Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
