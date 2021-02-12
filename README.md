@@ -25,7 +25,7 @@ To run the system smoothly on your device, the following are suggested:
 </p>
 
 ### Diversity
-<p float="center">
+<p align="center">
 <img width="400" height="400" src="https://github.com/A-Kerim/Silver/blob/main/TimeVars.PNG">
 <img width="400" height="400" src="https://github.com/A-Kerim/Silver/blob/main/WeatherVars.PNG"> 
 </p>
