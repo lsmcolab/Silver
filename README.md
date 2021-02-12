@@ -31,8 +31,8 @@ To run the system smoothly on your device, the following are suggested:
 </p>
 
 ## Code and Dataset
-The complete project can be accessed using this link: [https://XXXXXX].
-The sample dataset can be accessed using this link: [https://XXXXXX].
+* The complete project can be accessed using this link: [https://XXXXXX].
+* The sample dataset can be accessed using this link: [https://XXXXXX].
 
 
 ## Contact Authors
