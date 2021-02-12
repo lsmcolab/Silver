@@ -1,6 +1,6 @@
 # Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
- ![](name-of-giphy.gif)
+ ![](ezgif.com-gif-maker.gif)
 
 
 ## Abstract
