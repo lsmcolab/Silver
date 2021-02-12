@@ -1,7 +1,8 @@
 # Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
- 
+ <p align="center">
 <img align="center" src="ezgif.com-gif-maker.gif" width="660" height="500" />
+ </p>
 ## Abstract
 In this work, a new rendering engine called **Silver** is presented in details. The full-system code was released with a sample dataset. The dataset is just meant to show the capability of the system and researchers are welcomed to generate their own datasets.
 ## System Requirements
