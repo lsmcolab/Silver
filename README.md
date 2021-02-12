@@ -1,7 +1,7 @@
 # Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars.PNG">
+  <img width="460" height="300" src="https://github.com/A-Kerim/Silver/blob/main/g.PNG">
 </p>
 
 ## Abstract
@@ -13,7 +13,7 @@ To run the system smoothly on your device, the following are suggested:
 * GeForce GTX 1080 Ti
 * Vulkan API
 ## The Dataset
-A sample dataset was generated using **Silver** can be accessed from this link: [https://XXXXXX] 
+The sample dataset can be accessed using this link: [https://XXXXXX] 
 
 
 ## Contact Authors
