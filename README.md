@@ -39,7 +39,7 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
 
 ## Sample Videos
 [![IMAGE ALT TEXT HERE](RGB_Fr_0031.png)](https://youtu.be/P5lTm9N1qQ4)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/LB8pcmmcLl8)
+[![IMAGE ALT TEXT HERE](RGB_Fr_0348.png)](https://youtu.be/LB8pcmmcLl8)
 
 ## Contact Authors
 * Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
