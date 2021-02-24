@@ -20,7 +20,7 @@ To run the system smoothly on your device, the following are suggested:
 </p>
 
 ### Photo-realism
-HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is intended for high visual fidelity applications. The other key feature of HDRP is the Physical Light Unit (PLU) that relies on real-life lighting measurable values. All of these attributes together contribute to the final photo-realistic rendering that is shown in
+HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is intended for high visual fidelity applications. The other key feature of HDRP is the Physical Light Unit (PLU) that relies on real-life lighting measurable values. All of these attributes together contribute to the final photo-realistic rendering shown below.
 <p align="center">
   <img width="660" height="500" src="https://github.com/A-Kerim/Silver/blob/main/PhotoRealism.PNG">
 </p>
