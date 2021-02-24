@@ -1,7 +1,7 @@
 # Silver: Novel Rendering Engine for Data Hungry Computer Vision Tasks
 
  <p align="center">
-<img align="center" src="Silver_Intro.gif" width="660" height="500" />
+<img align="center" src="ezgif.com-gif-maker.gif" width="660" height="500" />
  </p>
  
 ## Abstract
