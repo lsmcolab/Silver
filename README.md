@@ -38,7 +38,9 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
 * The sample dataset can be downloaded using this link: [Click](https://livelancsac-my.sharepoint.com/:u:/g/personal/kerim_lancaster_ac_uk/ERMsh_Ba7TFPhCTXNejU4DABDY_mmG4UmAgrnt3qsdRL1Q?e=3kgZFI) 
 
 ## Sample Videos
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/P5lTm9N1qQ4)
+[![IMAGE ALT TEXT HERE](https://youtu.be/P5lTm9N1qQ4/0.jpg)](https://youtu.be/P5lTm9N1qQ4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/LB8pcmmcLl8)
+
 ## Contact Authors
 * Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
 * Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
