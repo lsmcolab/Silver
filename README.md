@@ -35,7 +35,7 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
 
 ## Code and Dataset
 * The complete project can be accessed using this link: [https://XXXXXX].
-* The sample dataset can be accessed using this link: [https://XXXXXX].
+* The sample dataset can be accessed using this link: [Click](https://livelancsac-my.sharepoint.com/:u:/g/personal/kerim_lancaster_ac_uk/ERMsh_Ba7TFPhCTXNejU4DABDY_mmG4UmAgrnt3qsdRL1Q?e=3kgZFI) 
 
 
 ## Contact Authors
