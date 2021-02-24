@@ -38,10 +38,7 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
 * The sample dataset can be downloaded using this link: [Click](https://livelancsac-my.sharepoint.com/:u:/g/personal/kerim_lancaster_ac_uk/ERMsh_Ba7TFPhCTXNejU4DABDY_mmG4UmAgrnt3qsdRL1Q?e=3kgZFI) 
 
 ## Sample Videos
-
- <p align="center">
-<img align="center" src="https://youtu.be/P5lTm9N1qQ4" width="660" height="500" />
- </p>
+To see a long video, please click on the images below.
     
 [![IMAGE ALT TEXT HERE](RGB_Fr_0031.png)](https://youtu.be/P5lTm9N1qQ4)
 [![IMAGE ALT TEXT HERE](RGB_Fr_0348.png)](https://youtu.be/LB8pcmmcLl8)
