@@ -44,7 +44,7 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
      <img 
       src="RGB_Fr_0031.png" 
       alt="Everything Is AWESOME" 
-      style="width:100%;">
+      style="width:90%;">
       </a>
     </div>
     
