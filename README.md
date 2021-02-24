@@ -26,7 +26,7 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
 </p>
 
 ### Diversity
- To avoid the over-fitting to the visual features of the synthetic world, the content of the environment is diversified by including a wide set of 3D models, textures, animations, weather conditions, illumination and lighting, and recording set-ups. Examples frames from the supported weather conditions and time of days are shown in Figure~\ref{fig:weathersAndtimeVars}. 
+ To avoid the over-fitting to the visual features of the synthetic world, the content of the environment is diversified by including a wide set of 3D models, textures, animations, weather conditions, illumination and lighting, and recording set-ups. Examples frames from the supported weather conditions and time of days are shown below. 
 <p align="center">
 <img width="400" height="400" src="https://github.com/A-Kerim/Silver/blob/main/TimeVars.PNG">
 <img width="400" height="400" src="https://github.com/A-Kerim/Silver/blob/main/WeatherVars.PNG"> 
