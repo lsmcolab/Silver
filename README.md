@@ -42,5 +42,5 @@ HDRP is based on the Scriptable Rendering Pipeline (SRP). Generally, it is inten
 * Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
 * Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
 ## Licence
-* The Dataset and the Framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
+* The Dataset and the framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
 * If you use the dataset or the framework feel free to cite our work.
