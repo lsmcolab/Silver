@@ -15,6 +15,7 @@ To run the system smoothly on your device, the following are suggested:
 
 ## System Features
 ### Ground-truths
+Our system automatically provides ground-truth for depth estimation, normal map, semantic segmentation, instance segmentation and body pose estimation.Image below shows one RGB frame with its corresponding ground-truths for the mentioned computer vision tasks. In addition to other textual information describing the time of the day, the weather condition, and many other useful information.
 <p align="center">
   <img width="660" height="500" src="https://github.com/A-Kerim/Silver/blob/main/GroundtruthsVars2.PNG">
 </p>
