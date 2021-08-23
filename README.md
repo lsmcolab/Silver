@@ -52,5 +52,14 @@ To see a long video, please click on the images below.
 * The Dataset and the framework are released under [ GPL license](http://www.gnu.org/licenses/gpl-3.0.html).
 * The Dataset and the framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
 * If you use the dataset or the framework, you should cite our work!
-## Paper
-* Paper is currently under review, once published the link will be provided here!
+## Citation
+* Our [Paper](https://eprints.lancs.ac.uk/id/eprint/157140/1/KDD_Workshop_Paper_AuthorVersion.pdf) got accepted to 2nd International Workshop on Data Quality Assessment for Machine Learning @ SIGKDD.
+
+```ruby
+@inproceedings{kerim2021silver,
+  title={Silver: Novel Rendering Engine for Data Hungry Computer Vision Models},
+  author={Kerim, Abdulrahman and Soriano Marcolino, Leandro and Jiang, Richard},
+  booktitle={2nd International Workshop on Data Quality Assessment for Machine Learning},
+  year={2021}
+}
+```
